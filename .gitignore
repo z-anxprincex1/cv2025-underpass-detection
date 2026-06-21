@@ -56,3 +56,8 @@ ENV/
 runs/
 !runs/obb/rot15_augmented10/weights/best.pt
 
+# ai agent rules
+AGENTS.md
+CLAUDE.md
+
+
